@@ -1,0 +1,6 @@
+public/nginx.conf
+.env
+/vendor
+node_modules/
+storage/
+Vagrantfile
